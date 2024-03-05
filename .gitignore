@@ -1,0 +1,16 @@
+/swift-buy/.git
+/swift-buy/node_modules
+/swift-buy/.pnp
+/swift-buy/.pnp.js
+/swift-buy/build
+/swift-buy/.DS_Store
+/swift-buy/.env.local
+/swift-buy/.env.development.local
+/swift-buy/.env.test.local
+/swift-buy/.env.production.local
+
+/swift-buy/npm-debug.log*
+/swift-buy/yarn-debug.log*
+/swift-buy/yarn-error.log*
+/swift-buy/.gitignore
+/swift-buy/README
